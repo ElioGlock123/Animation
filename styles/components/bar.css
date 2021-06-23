@@ -1,0 +1,45 @@
+body {
+    background: aquamarine;
+}
+/* 1336px a tela desktop */
+.bar{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.dad-bar{
+    position: absolute;
+    display: flex;
+    left: 2500px;
+    top: 1500px;
+}
+
+.bar-2{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.bar-3{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.bar-4{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.bar-5{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 400px;
+    margin-right: 50px;
+}

@@ -1,0 +1,14 @@
+.ball{
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 100px;
+    border-radius: 150px;
+    margin-right: 250px;
+}
+
+.dad-ball{
+    position: absolute;
+    display: flex;
+    left: 2450px;
+    top: 500px;
+}

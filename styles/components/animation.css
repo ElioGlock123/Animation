@@ -1,0 +1,44 @@
+
+.bar{
+    animation: load 900ms ease-in-out infinite;
+    
+}
+
+.bar-2{
+    animation: load 900ms ease-in-out infinite;
+    animation-delay: 0.1s;
+
+}
+.bar-3{
+    animation: load 900ms ease-in-out infinite;
+    animation-delay: 0.2s;
+
+}
+
+.bar-4{
+    animation: load 900ms ease-in-out infinite;
+    animation-delay: 0.3s;
+
+}
+
+.bar-5{
+    animation: load 900ms ease-in-out infinite;
+    animation-delay: 0.4s;
+
+}
+
+@keyframes load{
+    0%{ 
+        transform: scaleY(1);
+    }
+    50%{
+        transform: scaleY(1.6);
+    }
+    
+}
+
+/* balls */
+
+
+
+
