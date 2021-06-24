@@ -41,4 +41,24 @@
 
 
 
+.dad-ball{
+    width: fit-content;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    animation: circle 2s ease infinite;
+}
+
+
+@keyframes circle{
+     0% {
+         transform: rotate(0deg);
+     }
+
+     50% {
+         transform: rotate(180deg);
+     }
+}
 
